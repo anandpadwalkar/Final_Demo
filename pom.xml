@@ -332,7 +332,7 @@
 			<version>2.6</version>
 		</dependency>
 
-<!-- Common IO -->
+		<!-- Common IO -->
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
@@ -406,7 +406,7 @@
 			<url>http://repository.codehaus.org/org/codehaus</url>
 		</repository>
 	</repositories>
-<!--  -->
+	<!-- -->
 
 	<profiles>
 		<profile>

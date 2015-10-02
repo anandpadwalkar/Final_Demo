@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
-extraProperties=sonar.jdbc.password\=root\r\nsonar.jdbc.username\=postgres\r\nsonar.jdbc.url\=jdbc\:postgresql\://localhost\:5433/CMS\r\nsonar.jdbc.driver\=org.postgresql.Driver\r\nsonar.host.url\=http\://localhost\:9000
+extraProperties=sonar.host.url\=http\://localhost\:9000\r\nsonar.jdbc.password\=root\r\nsonar.jdbc.username\=postgres\r\nsonar.jdbc.url\=jdbc\:postgresql\://localhost\:5432/CMS\r\nsonar.jdbc.driver\=org.postgresql.Driver
 lastAnalysisDate=1443183318955
 projectKey=com.iitms\:Complaint_Module
 serverUrl=http\://localhost\:9000
